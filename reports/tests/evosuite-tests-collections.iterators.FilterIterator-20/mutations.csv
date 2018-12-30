@@ -1,0 +1,14 @@
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,getIterator,118,KILLED,collections.iterators.FilterIterator_ESTest.collections.iterators.FilterIterator_ESTest
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,getPredicate,140,KILLED,collections.iterators.FilterIterator_ESTest.collections.iterators.FilterIterator_ESTest
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,hasNext,69,KILLED,collections.iterators.FilterIterator_ESTest.collections.iterators.FilterIterator_ESTest
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,hasNext,70,NO_COVERAGE,none
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,hasNext,72,KILLED,collections.iterators.FilterIterator_ESTest.collections.iterators.FilterIterator_ESTest
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,next,87,KILLED,collections.iterators.FilterIterator_ESTest.collections.iterators.FilterIterator_ESTest
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,next,88,KILLED,collections.iterators.FilterIterator_ESTest.collections.iterators.FilterIterator_ESTest
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,next,93,NO_COVERAGE,none
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,remove,105,KILLED,collections.iterators.FilterIterator_ESTest.collections.iterators.FilterIterator_ESTest
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator,remove,108,KILLED,collections.iterators.FilterIterator_ESTest.collections.iterators.FilterIterator_ESTest
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,setNextObject,164,KILLED,collections.iterators.FilterIterator_ESTest.collections.iterators.FilterIterator_ESTest
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,setNextObject,166,SURVIVED,none
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,setNextObject,169,NO_COVERAGE,none
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,setNextObject,172,KILLED,collections.iterators.FilterIterator_ESTest.collections.iterators.FilterIterator_ESTest

@@ -1,0 +1,14 @@
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,getIterator,118,KILLED,RegressionTest0.test069(RegressionTest0)
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,getPredicate,140,KILLED,RegressionTest0.test039(RegressionTest0)
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,hasNext,69,NO_COVERAGE,none
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,hasNext,70,NO_COVERAGE,none
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,hasNext,72,NO_COVERAGE,none
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,next,87,NO_COVERAGE,none
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,next,88,NO_COVERAGE,none
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,next,93,NO_COVERAGE,none
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,remove,105,KILLED,RegressionTest0.test121(RegressionTest0)
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator,remove,108,KILLED,RegressionTest0.test121(RegressionTest0)
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,setNextObject,164,NO_COVERAGE,none
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,setNextObject,166,NO_COVERAGE,none
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,setNextObject,169,NO_COVERAGE,none
+FilterIterator.java,collections.iterators.FilterIterator,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,setNextObject,172,NO_COVERAGE,none

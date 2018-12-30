@@ -1,0 +1,16 @@
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,<init>,68,KILLED,RegressionTest0.test035(RegressionTest0)
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator,<init>,72,SURVIVED,none
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,checkSetValue,107,NO_COVERAGE,none
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,checkSetValue,110,NO_COVERAGE,none
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,decorate,49,KILLED,RegressionTest0.test035(RegressionTest0)
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,isSetValueChecking,121,SURVIVED,none
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,isSetValueChecking,121,SURVIVED,none
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,put,135,NO_COVERAGE,none
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator,put,134,NO_COVERAGE,none
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,putAll,148,NO_COVERAGE,none
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator,putAll,152,NO_COVERAGE,none
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator,putAll,154,NO_COVERAGE,none
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,validate,89,SURVIVED,none
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,validate,89,KILLED,RegressionTest0.test074(RegressionTest0)
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,validate,92,SURVIVED,none
+PredicatedMap.java,collections.map.PredicatedMap,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,validate,92,KILLED,RegressionTest0.test074(RegressionTest0)

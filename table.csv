@@ -1,0 +1,8 @@
+collections.comparators.FixedOrderComparator,Randoop,0.7628205128205127,0.4933333333333333,0.5282828282828282
+collections.comparators.FixedOrderComparator,Evosutie,0.9769230769230764,0.9708333333333338,0.897979797979798
+collections.iterators.FilterIterator,Randoop,0.5191666666666669,0.07499999999999998,0.39285714285714296
+collections.iterators.FilterIterator,Evosutie,0.7958333333333332,0.5638888888888888,0.8142857142857142
+collections.map.PredicatedMap,Randoop,0.36666666666666664,0.2625,0.20625
+collections.map.PredicatedMap,Evosutie,1.0,1.0,0.99375
+math.genetics.ElitisticListPopulation,Randoop,0.9566666666666663,0.8611111111111108,0.6844444444444445
+math.genetics.ElitisticListPopulation,Evosutie,0.9916666666666667,0.9833333333333333,0.8688888888888892

@@ -1,0 +1,15 @@
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator,<init>,73,KILLED,RegressionTest0.test135(RegressionTest0)
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator,<init>,57,KILLED,RegressionTest0.test175(RegressionTest0)
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,getElitismRate,117,KILLED,RegressionTest0.test095(RegressionTest0)
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.ConditionalsBoundaryMutator,nextGeneration,93,KILLED,RegressionTest0.test095(RegressionTest0)
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.IncrementsMutator,nextGeneration,93,KILLED,RegressionTest0.test288(RegressionTest0)
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.MathMutator,nextGeneration,92,SURVIVED,none
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.MathMutator,nextGeneration,92,SURVIVED,none
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,nextGeneration,93,KILLED,RegressionTest0.test095(RegressionTest0)
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.ReturnValsMutator,nextGeneration,96,KILLED,RegressionTest0.test095(RegressionTest0)
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator,nextGeneration,89,SURVIVED,none
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.VoidMethodCallMutator,nextGeneration,94,SURVIVED,none
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.ConditionalsBoundaryMutator,setElitismRate,106,KILLED,RegressionTest0.test095(RegressionTest0)
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.ConditionalsBoundaryMutator,setElitismRate,106,KILLED,RegressionTest0.test095(RegressionTest0)
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,setElitismRate,106,KILLED,RegressionTest0.test095(RegressionTest0)
+ElitisticListPopulation.java,math.genetics.ElitisticListPopulation,org.pitest.mutationtest.engine.gregor.mutators.NegateConditionalsMutator,setElitismRate,106,KILLED,RegressionTest0.test095(RegressionTest0)
